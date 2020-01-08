@@ -12,8 +12,8 @@ public class EmpController {
 	public Emp getEmployee(){
 		Emp emp = new Emp();
 		emp.setEmpId(100);
-		emp.setFirstName("srinivasa reddy");
-		emp.setLastName("eevuri");
+		emp.setFirstName("srinivasa");
+		emp.setLastName("E");
 		emp.setSalary(100000); 
 		return emp;
 	}
